@@ -91,3 +91,12 @@ export async function getstaticProps() {
     },
   };
 }
+
+
+
+
+
+//git remote add origin https://github.com/Vishal649-bot/Realstate.git
+
+
+// git remote set-url origin https://github.com/Vishal649-bot/Realstate.git
